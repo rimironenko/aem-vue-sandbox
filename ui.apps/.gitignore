@@ -1,0 +1,4 @@
+node/
+node_modules/
+package-lock.json
+src/main/content/jcr_root/apps/aem-vue-sandbox/clientlibs/clientlib-vue/js/main.js
