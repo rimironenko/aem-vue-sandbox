@@ -11,7 +11,8 @@
   "dependencies": {
     "vue": "^2.5.16",
     "vuex": "^2.3.1",
-    "moment": "^2.21.0"
+    "moment": "^2.21.0",
+    "query-string": "^6.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
