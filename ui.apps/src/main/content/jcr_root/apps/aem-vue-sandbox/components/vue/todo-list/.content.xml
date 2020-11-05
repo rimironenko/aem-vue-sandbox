@@ -3,4 +3,4 @@
     jcr:primaryType="cq:Component"
     jcr:title="TODO List Component"
     sling:resourceSuperType="wcm/foundation/components/parbase"
-    componentGroup="AEM 6.5 + Vue.js site - Content"/>
+    componentGroup="AEM 6.5 + Vue.js site - Vue"/>

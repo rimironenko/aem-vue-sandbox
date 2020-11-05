@@ -303,6 +303,14 @@
                         </assetToComponentMapping>
                     </cq:authoring>
                 </policy_1575040440977>
+                <policy_12749235135600
+                    jcr:primaryType="nt:unstructured"
+                    jcr:title="vue-components-only-policy"
+                    sling:resourceType="wcm/core/components/policy/policy"
+                    components="group:AEM 6.5 + Vue.js site - Vue"
+                    layoutDisabled="false">
+                    <jcr:content jcr:primaryType="nt:unstructured"/>
+                </policy_12749235135600>
             </container>
             <teaser jcr:primaryType="nt:unstructured">
                 <policy_1575031387650
