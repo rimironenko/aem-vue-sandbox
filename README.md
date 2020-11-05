@@ -29,7 +29,7 @@ AEM + Vue components stored in [ui.apps/src/main/content/jcr_root/apps/aem-vue-s
 
 Vue + Vuex app is initialized in [ui.apps/src/main/content/jcr_root/apps/aem-vue-sandbox/clientlibs/clientlib-vue/js](https://github.com/rimironenko/aem-vue-sandbox/tree/master/ui.apps/src/main/content/jcr_root/apps/aem-vue-sandbox/clientlibs/clientlib-vue/js)
 
-jQuery as dependency added from AEM embedded libs in *apps/aem-vue-sandbox/clientlibs/clientlib-dependencies/.content.xml* as Clientlib dependency.
+jQuery as dependency added from AEM embedded libs in [ui.apps/aem-vue-sandbox/clientlibs/clientlib-dependencies/.content.xml](https://github.com/rimironenko/aem-vue-sandbox/blob/master/ui.apps/src/main/content/jcr_root/apps/aem-vue-sandbox/clientlibs/clientlib-dependencies/.content.xml) as Clientlib dependency.
 
 ## How to build
 
