@@ -4,15 +4,15 @@ This is an AEM 6.5 project generated from AEM Project Archetype with Vue, Vuex a
 
 ## Vue inclusion
 
-Vue and Vuex included into build by Webpack and added into source, see ui.apps/webpack.config.js.
+Vue and Vuex included into build by Webpack and added into source, see [ui.apps/webpack.config.js](https://github.com/rimironenko/aem-vue-sandbox/blob/master/ui.apps/webpack.config.js).
 
 Generated source file added to gitignore. Approach is same as for angular/react AEM SPA application samples from Adobe.
 
 ## Vue components and dependencies
 
-AEM + Vue components stored in ui.apps/src/main/content/jcr_root/apps/aem-vue-sandbox/components/vue
+AEM + Vue components stored in [ui.apps/src/main/content/jcr_root/apps/aem-vue-sandbox/components/vue](https://github.com/rimironenko/aem-vue-sandbox/tree/master/ui.apps/src/main/content/jcr_root/apps/aem-vue-sandbox/components/vue)
 
-Vue + Vuex app is initialized in ui.apps/src/main/content/jcr_root/apps/aem-vue-sandbox/clientlibs/clientlib-vue/js
+Vue + Vuex app is initialized in [ui.apps/src/main/content/jcr_root/apps/aem-vue-sandbox/clientlibs/clientlib-vue/js](https://github.com/rimironenko/aem-vue-sandbox/tree/master/ui.apps/src/main/content/jcr_root/apps/aem-vue-sandbox/clientlibs/clientlib-vue/js)
 
 ## How to build
 
